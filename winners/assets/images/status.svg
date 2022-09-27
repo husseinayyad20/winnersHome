@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399" height="229" viewBox="0 0 399 229">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.169" y1="0.237" x2="0.944" y2="0.877" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#357bcb"/>
+      <stop offset="1" stop-color="#002a5c"/>
+    </linearGradient>
+    <filter id="thumbnail-elle-iphone-v1-1646951767" x="0" y="0" width="399" height="229" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#thumbnail-elle-iphone-v1-1646951767)">
+    <rect id="thumbnail-elle-iphone-v1-1646951767-2" data-name="thumbnail-elle-iphone-v1-1646951767" width="381" height="211" transform="translate(9 9)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

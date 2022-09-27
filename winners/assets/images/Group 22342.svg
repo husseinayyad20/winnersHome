@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="345" height="76.596" viewBox="0 0 345 76.596">
+  <g id="Group_22342" data-name="Group 22342" transform="translate(-806.184 -765)">
+    <rect id="Rectangle_9324" data-name="Rectangle 9324" width="345" height="76.596" transform="translate(806.184 765)" fill="#0b1828" opacity="0.443"/>
+    <g id="Group_22062" data-name="Group 22062" transform="translate(821.184 780.384)">
+      <text id="Some_of_your_bets_cannot_be_combined" data-name="Some of your bets cannot be combined" transform="translate(25 14)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Some Of Your Bets Cannot Be Combined</tspan></text>
+      <g id="Group_22059" data-name="Group 22059" transform="translate(0 3)">
+        <circle id="Ellipse_171" data-name="Ellipse 171" cx="7.5" cy="7.5" r="7.5" fill="#e01b22"/>
+        <g id="Group_22054" data-name="Group 22054" transform="translate(6.542 3.228)">
+          <path id="Path_16093" data-name="Path 16093" d="M102.19,146.934a.944.944,0,1,1,.274.67A.949.949,0,0,1,102.19,146.934Z" transform="translate(-102.165 -139.339)" fill="#fff"/>
+          <path id="Path_16094" data-name="Path 16094" d="M103.782,64.944c-.072,1.244-.145,2.5-.218,3.751a4.34,4.34,0,0,1-.035.535.689.689,0,0,1-.684.55.66.66,0,0,1-.68-.567c-.054-.48-.072-.966-.1-1.448-.059-.949-.112-1.9-.176-2.847a1,1,0,0,1,1.084-1.14.932.932,0,0,1,.81.852C103.788,64.73,103.782,64.832,103.782,64.944Z" transform="translate(-101.883 -63.771)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_22061" data-name="Group 22061" transform="translate(821.184 807.211)">
+      <text id="Some_of_your_bets_values_changed" data-name="Some of your bets values changed" transform="translate(25 14)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Some Of Your Bets Values Changed</tspan></text>
+      <g id="Group_22060" data-name="Group 22060" transform="translate(0 2)">
+        <circle id="Ellipse_171-2" data-name="Ellipse 171" cx="7.5" cy="7.5" r="7.5" fill="#fdb900"/>
+        <g id="Group_22054-2" data-name="Group 22054" transform="translate(6.542 3.228)">
+          <path id="Path_16093-2" data-name="Path 16093" d="M102.19,146.934a.944.944,0,1,1,.274.67A.949.949,0,0,1,102.19,146.934Z" transform="translate(-102.165 -139.339)" fill="#fff"/>
+          <path id="Path_16094-2" data-name="Path 16094" d="M103.782,64.944c-.072,1.244-.145,2.5-.218,3.751a4.34,4.34,0,0,1-.035.535.689.689,0,0,1-.684.55.66.66,0,0,1-.68-.567c-.054-.48-.072-.966-.1-1.448-.059-.949-.112-1.9-.176-2.847a1,1,0,0,1,1.084-1.14.932.932,0,0,1,.81.852C103.788,64.73,103.782,64.832,103.782,64.944Z" transform="translate(-101.883 -63.771)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

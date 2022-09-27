@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85.906" height="27" viewBox="0 0 85.906 27">
+  <g id="Group_22362" data-name="Group 22362" transform="translate(-274 -20)">
+    <g id="Group_21890" data-name="Group 21890" transform="translate(278.857 20)">
+      <g id="Group_99" data-name="Group 99" transform="translate(-4.857)" style="mix-blend-mode: normal;isolation: isolate">
+        <rect id="Rectangle_106" data-name="Rectangle 106" width="85.906" height="27" rx="4" fill="#0e1c30"/>
+      </g>
+    </g>
+    <g id="Group_22361" data-name="Group 22361" transform="translate(284 24)">
+      <text id="Sign_out" data-name="Sign out" transform="translate(21.133 14)" fill="#fff" font-size="11" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sign out</tspan></text>
+      <g id="logout-circle-r-line" transform="translate(0 3)">
+        <path id="Path_3540" data-name="Path 3540" d="M0,0H14.724V14.724H0Z" fill="none"/>
+        <path id="Path_3541" data-name="Path 3541" d="M8.135,14.27a6.135,6.135,0,1,1,4.908-9.816H11.381a4.908,4.908,0,1,0,0,7.362h1.663A6.126,6.126,0,0,1,8.135,14.27Zm4.295-3.681V8.749H7.522V7.522H12.43V5.681L15.5,8.135Z" transform="translate(-0.773 -0.773)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

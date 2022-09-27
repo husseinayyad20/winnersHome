@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128.125" height="128.125" viewBox="0 0 128.125 128.125">
+  <g id="Group_21675" data-name="Group 21675" transform="translate(-131 -356)">
+    <g id="checkbox-circle-fill" transform="translate(131 356)">
+      <path id="Path_15872" data-name="Path 15872" d="M0,0H128.125V128.125H0Z" fill="none"/>
+      <path id="Path_15873" data-name="Path 15873" d="M55.385,108.771a53.385,53.385,0,1,1,53.385-53.385A53.384,53.384,0,0,1,55.385,108.771ZM50.063,76.74,87.806,38.991l-7.549-7.549-30.195,30.2-15.1-15.1-7.549,7.549Z" transform="translate(8.677 8.677)" fill="#49be00"/>
+    </g>
+    <path id="Path_15874" data-name="Path 15874" d="M6723.456,2425.373l15.022,14.824,30.634-30.19,7.263,7.22-37.9,38.16-22.838-22.815Z" transform="translate(-6549 -2014)" fill="#fff"/>
+  </g>
+</svg>
